@@ -15,8 +15,7 @@ I'm Louis, a software engineer experienced in creating fullstack JavaScript/Type
 <img src='https://lh3.googleusercontent.com/proxy/7unLQ5tlfCpfwICLv2lKuonWUaOlO8FtcHR5jsp7nLgdwO87Ce4JKT31I6dU1OLzmPN9pVvaBSIVGbHJUkwsbPVrVoF1PyFM8T5lmqaigjWuSdF5Jyg' width='50px'/>
 </a>
 
-### Email: 
-- louisxsheid@gmail.com
+#### Email: louisxsheid@gmail.com
 <!--
 **louisxsheid/louisxsheid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
