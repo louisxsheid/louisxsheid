@@ -10,9 +10,7 @@ I'm Louis, a software engineer experienced in creating fullstack JavaScript/Type
 <hr>
 
 ### 📫 How to reach me:
-
-<a href='https://www.linkedin.com/in/louisxsheid/' target=”_blank”>
-<img src='https://lh3.googleusercontent.com/proxy/7unLQ5tlfCpfwICLv2lKuonWUaOlO8FtcHR5jsp7nLgdwO87Ce4JKT31I6dU1OLzmPN9pVvaBSIVGbHJUkwsbPVrVoF1PyFM8T5lmqaigjWuSdF5Jyg' width='50px'/>
-</a>
+  
+#### LinkedIn: <a href='https://www.linkedin.com/in/louisxsheid/' target=”_blank”>louisxsheid</a>
 
 #### Email: louisxsheid@gmail.com
