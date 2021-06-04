@@ -1,6 +1,6 @@
 ## Louis Xavier Sheid III --- Software Developer 🖥️💻📱
 
-I'm Louis, a software engineer experienced in creating fullstack JavaScript/TypeScript applications.
+I'm Louis, a software developer experienced in creating fullstack JavaScript/TypeScript applications.
 
 Currently learning anything I can.
 
