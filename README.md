@@ -8,6 +8,6 @@ Currently learning anything I can.
 
 ### 📫 How to reach me:
   
-#### LinkedIn: <a href='https://www.linkedin.com/in/louisxsheid/' target=”_blank”>louisxsheid</a>
+#### <a href='https://linktr.ee/louisxsheid' target=”_blank”>My socials</a>
 
 #### Email: louisxsheid@gmail.com
