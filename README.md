@@ -6,4 +6,4 @@ Currently learning anything I can.
 
 <hr>
   
-#### <a href='https://linktr.ee/louisxsheid' target=”_blank”>My socials</a> || louisxsheid@gmail.com
+#### <a href='https://linktr.ee/louisxsheid' target=”_blank”>My socials</a> || lxs3.dev@gmail.com
