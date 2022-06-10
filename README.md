@@ -1,4 +1,4 @@
-## Louis Xavier Sheid III - Software Developer 🖥️💻📱
+## Louis Sheid - Software Developer 🖥️💻📱
 
 I'm Louis, a software developer experienced in creating fullstack JavaScript/TypeScript applications.
 
