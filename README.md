@@ -10,4 +10,6 @@ Currently learning anything I can.
 
 <hr>
 
+Currently working at <a href='https://kmswireless.com/' target=”_blank”>K&M Systems, Inc.</a>
+
 Check out <a href='https://design-rf.com' target=”_blank”>DesignRF</a>. Make an account and try it out for free!
