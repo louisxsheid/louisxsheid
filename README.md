@@ -2,9 +2,7 @@
 
 I'm Louis, a software developer experienced in creating fullstack JavaScript/TypeScript applications.
 
-Currently working at <a href='https://kmswireless.com/' target=”_blank”>K&M Systems, Inc.</a>
-
-Check out <a href='https://design-rf.com' target=”_blank”>DesignRF</a>. Make an account and try it out for free!
+Currently working at <a href='https://kmswireless.com/' target=”_blank”>K&M Systems, Inc.</a> working on <a href='https://design-rf.com' target=”_blank”>DesignRF</a>, an indoor RF CAD tool that generates heatmaps.
 
 <hr>
 <!--   
