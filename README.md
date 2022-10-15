@@ -1,4 +1,4 @@
-## Louis Sheid - Software Developer 🖥️💻📱
+## Louis Sheid - Software Engineer 🖥️💻📱
 
 I'm Louis, a software developer from San Diego, CA experienced in creating full-stack applications.
 
