@@ -1,3 +1,3 @@
-Software engineer
+Software Engineer
 
 Full-stack, RF design, etc.
