@@ -1,3 +1,3 @@
 Software Engineer
 
-Full-stack, RF design, etc.
+ML, full-stack, RF design, etc.
